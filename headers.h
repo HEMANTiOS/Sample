@@ -4,4 +4,5 @@
   	unsigned int str_len(char *ptr);
 	int addition(int x, int y);
  	int substraction(int x, int y);
-#endif
+	int multiplication(int x, int y);
+#endif                                                                                 
