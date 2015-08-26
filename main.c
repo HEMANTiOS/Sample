@@ -5,5 +5,6 @@ int main(int argc, char **argv) {
 	printf("%s length of %s is %d\n", __FUNCTION__, "PURPLE_TALK", str_len("PURPLE_TALK"));
 	printf("%s Addition of %d and %d is %d\n", __FUNCTION__, x, y, addition(x,y));
 	printf("%s Substration of %d and %d is %d\n", __FUNCTION__, x, y, substraction(y, x));
+	printf("%s multiplication of %d and %d is %d\n", __FUNCTION__, x, y, multiplication(x, y));
 	return 0;
 }
